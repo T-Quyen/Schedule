@@ -142,6 +142,7 @@ html {
     padding: 23px 0;
     color: var(--primary-color);
     text-align: center;
+    max-width: 326px;
     width: 89.7%;
     display: inline-block;
 }
